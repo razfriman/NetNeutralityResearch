@@ -1,17 +1,9 @@
 \begin{thebibliography}{1}
 
-\bibitem{Jain:2002:EAB:633025.633054}
-Manish Jain and Constantinos Dovrolis.
-\newblock End-to-end available bandwidth: Measurement methodology, dynamics,
-  and relation with tcp throughput.
-\newblock In {\em Proceedings of the 2002 Conference on Applications,
-  Technologies, Architectures, and Protocols for Computer Communications},
-  SIGCOMM '02, pages 295--308, New York, NY, USA, 2002. ACM.
-
-\bibitem{Strauss:2003:MSA:948205.948211}
-Jacob Strauss, Dina Katabi, and Frans Kaashoek.
-\newblock A measurement study of available bandwidth estimation tools.
-\newblock In {\em Proceedings of the 3rd ACM SIGCOMM Conference on Internet
-  Measurement}, IMC '03, pages 39--44, New York, NY, USA, 2003. ACM.
+\bibitem{FCCTomWheeler}
+Tom Wheeler.
+\newblock Fcc chairman tom wheeler: This is how we will ensure net neutrality,
+  February 2015.
+\newblock [Online; posted 04-February-2015].
 
 \end{thebibliography}
