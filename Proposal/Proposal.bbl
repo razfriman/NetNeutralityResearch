@@ -1,33 +1,28 @@
 \begin{thebibliography}{1}
 
+\bibitem{Sandvine}
+Sandvine.
+\newblock Global internet phenomena report - 1h 2014, August 2014.
+\newblock [Online; posted 10-August-2014].
+
 \bibitem{FCCTomWheeler}
 Tom Wheeler.
 \newblock Fcc chairman tom wheeler: This is how we will ensure net neutrality,
   February 2015.
 \newblock [Online; posted 04-February-2015].
 
-\bibitem{1224454}
-M.~Jain and C.~Dovrolis.
-\newblock End-to-end available bandwidth: measurement methodology, dynamics,
-  and relation with tcp throughput.
-\newblock {\em Networking, IEEE/ACM Transactions on}, 11(4):537--549, Aug 2003.
+\bibitem{ResolutionOnOpenInternet}
+TACD.
+\newblock Resolution on the open and neutral internet, June 2014.
+\newblock [Online; posted 10-June-2014].
 
-\bibitem{1631969}
-G.~Goth.
-\newblock Net neutrality's unpublicized achilles' heel [internet services].
-\newblock {\em Internet Computing, IEEE}, 10(3):4--6, May 2006.
+\bibitem{FERC}
+Federal energy regulatory commissions.
 
-\bibitem{5188801}
-S.~Jordan.
-\newblock Four questions that determine whether traffic management is
-  reasonable.
-\newblock In {\em Integrated Network Management, 2009. IM '09. IFIP/IEEE
-  International Symposium on}, pages 137--140, June 2009.
-
-\bibitem{5277804}
-J.~Domzal, R.~Wojcik, and A.~Jajszczyk.
-\newblock Qos-aware net neutrality.
-\newblock In {\em Evolving Internet, 2009. INTERNET '09. First International
-  Conference on}, pages 147--152, Aug 2009.
+\bibitem{RegulationOnInnovation}
+Luke Stewart.
+\newblock The impact of regulation on innovation in the united states: A
+  cross-industry literature review, June 2010.
+\newblock [Online; posted 10-June-2010].
 
 \end{thebibliography}
