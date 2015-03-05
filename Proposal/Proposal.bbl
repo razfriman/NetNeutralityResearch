@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{gigaom}
 David Meyer.
@@ -17,25 +17,46 @@ Chris McElroy.
 \newblock Defining net neutrality without the politics, February 2015.
 \newblock [Online; posted 10-February-2015].
 
-\bibitem{FCCTomWheeler}
-Tom Wheeler.
-\newblock Fcc chairman tom wheeler: This is how we will ensure net neutrality,
-  February 2015.
-\newblock [Online; posted 04-February-2015].
+\bibitem{inthenews}
+James Vincent.
+\newblock Net neutrality: Why is it always in the news?, February 2015.
+\newblock [Online; posted 25-February-2015].
 
 \bibitem{Sandvine}
 Sandvine.
 \newblock Global internet phenomena report - 1h 2014, August 2014.
 \newblock [Online; posted 10-August-2014].
 
+\bibitem{netflix}
+Daniel~A Lyons.
+\newblock Peering into the comcast-netflix deal.
+\newblock {\em Perspectives from Free State Foundation Scholars}, 9(11), 2014.
+
 \bibitem{economics}
 Ionela Baltatescu.
 \newblock The economics of net neutrality: Policy issues.
 \newblock {\em Knowledge Horizons.Economics}, 6(2):114--118, 2014.
 
-\bibitem{inthenews}
-James Vincent.
-\newblock Net neutrality: Why is it always in the news?, February 2015.
-\newblock [Online; posted 25-February-2015].
+\bibitem{jitsuzumi2011japan}
+Toshiya Jitsuzumi.
+\newblock Japan's co-regulatory approach to net neutrality and its flaw:
+  Insufficient literacy on best-effort qos.
+\newblock {\em Communications \& Strategies}, (84):93--110, 2011.
+
+\bibitem{Jordan:2009:IIA:1516539.1516540}
+Scott Jordan.
+\newblock Implications of internet architecture on net neutrality.
+\newblock {\em ACM Trans. Internet Technol.}, 9(2):5:1--5:28, May 2009.
+
+\bibitem{Crowcroft:2007:NNT:1198255.1198263}
+Jon Crowcroft.
+\newblock Net neutrality: The technical side of the debate: a white paper.
+\newblock {\em SIGCOMM Comput. Commun. Rev.}, 37(1):49--56, January 2007.
+
+\bibitem{paradox}
+K.~Rafique, Chunhui Yuan, and M.~Saeed.
+\newblock Net neutrality paradox: Regulator's dilemma.
+\newblock In {\em Wireless Communications, Networking and Mobile Computing
+  (WiCOM), 2011 7th International Conference on}, pages 1--5, Sept 2011.
 
 \end{thebibliography}
